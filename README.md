@@ -1,24 +1,21 @@
-# ADRI4NCITO TV 🎬
+# LAST CHAT
 
-Plataforma de películas y deportes en streaming
+Chat con IA construido en HTML, CSS y JavaScript puro.
 
-## Características
-- 40 películas
-- 4 partidos de fútbol Mundial 2026
-- Búsqueda en tiempo real
-- Diseño estilo app streaming
+## Demo
+👉 https://elpradrian-oss.github.io/last-chat/
 
-## Cómo usar
-1. Descarga el archivo `peliculas-dailymotion.html`
-2. Abre en tu navegador
-3. ¡Disfruta!
+## Descripción
+LAST CHAT es una interfaz de chat con diseño minimalista en negro,
+pensada para conectarse a un modelo de IA.
 
-## Géneros disponibles
-- Acción
-- Terror
-- Drama
-- Thriller
-- Deportes
+## Estado
+⚠️ Actualmente la interfaz está lista, pero necesita conectarse
+a un backend propio para que las respuestas de la IA funcionen
+fuera de este entorno (por seguridad, la API key no puede
+exponerse directamente en el navegador).
 
----
-Creado con ❤️
+## Tecnologías
+- HTML5
+- CSS3
+- JavaScript (vanilla)
